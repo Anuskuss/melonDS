@@ -3052,4 +3052,3 @@ Renderer3D::Renderer3D(bool Accelerated)
 { }
 
 }
-
